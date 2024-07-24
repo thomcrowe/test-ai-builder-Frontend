@@ -1,0 +1,68 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Unleash the Ultimate Platform to Seamlessly Integrate and Elevate All Your SaaS Solutions",
+        "title": "Revolutionize Your Workflow with Best SaaS Ever Saas"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Unleash the Ultimate Platform to Seamlessly Integrate and Elevate All Your SaaS Solutions",
+        "title": "Revolutionize Your Workflow with Best SaaS Ever Saas"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered"
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Unleash the Ultimate Platform to Seamlessly Integrate and Elevate All Your SaaS Solutions",
+        "title": "Revolutionize Your Workflow with Best SaaS Ever Saas"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "additionalInformation": {
+          "improvements": "3% better than competitors",
+          "ongoingSupport": "Continuous improvements in 25% of key areas",
+          "successRate": "90% success in various categories"
+        },
+        "description": "Join 8,000+ creators who trust our platform every day. With a flat platform fee of 3% and a 99.9% uptime guarantee, we've paid out $70M to our creators.",
+        "title": "Revolutionizing Platforms with Best SaaS Ever"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Unleash the Ultimate Platform to Seamlessly Integrate and Elevate All Your SaaS Solutions",
+        "title": "Revolutionize Your Workflow with Best SaaS Ever Saas"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Unleash the Ultimate Platform to Seamlessly Integrate and Elevate All Your SaaS Solutions",
+        "title": "Revolutionize Your Workflow with Best SaaS Ever Saas"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Unleash the Ultimate Platform to Seamlessly Integrate and Elevate All Your SaaS Solutions",
+        "title": "Revolutionize Your Workflow with Best SaaS Ever Saas"
+      }
+    },
+    {
+      "id": "FooterSocialLinksOnly"
+    }
+  ],
+  "theme": "neo-brutal",
+  "font": "",
+  "title": "Revolutionize Your Workflow with Best SaaS Ever Saas",
+  "subtitle": "Unleash the Ultimate Platform to Seamlessly Integrate and Elevate All Your SaaS Solutions"
+}
